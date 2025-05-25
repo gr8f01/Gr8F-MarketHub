@@ -1,0 +1,81 @@
+Back-End (Admin Dashboard Features):
+Admin Panel for Product Management:
+
+Admins should be able to add new products, edit existing products, and delete products.
+
+Each product entry should include:
+
+Product Name
+
+Category (Electronics, Fashion, Books, etc.)
+
+Price
+
+Description
+
+Stock Quantity
+
+Product Images
+
+Discounts (If applicable)
+
+Tags (e.g., New, Limited Edition)
+
+SKU or Product ID
+
+Visibility Toggle (To show/hide products on the website)
+
+Scheduled Launch (Ability to schedule when a product becomes available).
+
+Inventory Management:
+
+Admins should be able to set and track stock levels for each product.
+
+Low stock alerts to notify when a product’s stock is running low.
+
+Order Management:
+
+View and manage all customer orders.
+
+Update order status (e.g., Pending, Shipped, Delivered).
+
+User Management:
+
+View user profiles and manage user roles (Admin, Seller, Customer).
+
+Admin can modify user information, including their referral codes or vouchers.
+
+Referral Settings:
+
+Set the rules for the referral system (e.g., the number of referrals needed to earn a voucher, voucher expiration, discount type).
+
+Create, view, and manage the vouchers given to users as part of the referral system.
+
+Product Categories Management:
+
+Admins can create, update, or remove product categories.
+
+Assign products to the appropriate categories.
+
+Reports and Analytics:
+
+Track sales reports, inventory levels, and performance metrics of each product.
+
+Get insights on best-selling products, average order values, and popular categories.
+
+Admin Authentication & Security:
+
+Implement secure login for the admin with authentication via Supabase.
+
+Ensure that only authorized users can access the admin panel.
+
+Payment Integration:
+
+Integrate multiple payment options, including mobile money (e.g., MPesa), student card payments, and bank payment options.
+
+Admins should be able to enable/disable payment methods.
+
+Terms & Conditions and Privacy Policy:
+
+Add a section in the admin panel where terms & conditions, privacy policy, and refund policy can be entered and displayed during registration and checkout.
+

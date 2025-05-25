@@ -1,0 +1,95 @@
+"Write the code for an e-commerce website for students at Egerton University, branded as GR8F EgertonMarketHub. This website will initially sell products directly to students and will include multiple advanced features for both customers and admins.
+
+Key Features:
+1. Homepage:
+Clean, modern design with a student-friendly interface.
+
+Display popular product categories like textbooks, stationery, gadgets, and dorm essentials.
+
+A featured section for promotions, new arrivals, or “flash sales.”
+
+A search bar for students to easily find products.
+
+2. Product Listings:
+Display individual products with a photo, title, price, and brief description.
+
+Filter options by category, price range, and best-sellers.
+
+Option to “add to cart” and “buy now.”
+
+3. Product Pages:
+Detailed product pages with high-quality images, product specifications, and availability.
+
+Clear “Buy Now” or “Add to Cart” buttons.
+
+Show estimated delivery time and shipping options for students on campus.
+
+4. Cart & Checkout:
+A user-friendly cart where students can review their purchases.
+
+Easy checkout process with multiple payment options:
+
+Mobile Money (e.g., Mpesa) integration for easy transactions.
+
+Bank payments for students who prefer direct transfers.
+
+Student card payments or any alternative university payment methods.
+
+Allow the option to enable or disable specific payment methods, which can be managed by the admin.
+
+Clear and simple terms and conditions available during registration for students to agree to before completing their purchase.
+
+5. User Accounts & Dashboards:
+Student Dashboard: Students should have a personal dashboard where they can track orders, manage shipping information, and see how many referrals they’ve made and how many vouchers they’ve earned.
+
+Referral Program:
+
+Each student gets a unique referral code or link to share.
+
+Every time a referred student signs up and makes their first transaction, the referring student earns a voucher (which can be a discount or product voucher, customizable by the admin).
+
+Include a feature that allows students to track their referral progress and vouchers earned in their dashboard.
+
+Admin Dashboard: As the admin, you should be able to:
+
+Set guidelines for the referral program (e.g., how many referrals a student needs to earn a voucher).
+
+Set the type of vouchers (discount vouchers, product vouchers) and their expiration dates.
+
+Enable or disable different payment options (e.g., mobile money, bank payments).
+
+Monitor all student activity, including purchases, referrals, and voucher redemptions.
+
+6. Terms and Conditions:
+Include a page where students can easily access and read the terms and conditions. This page should be available at registration, and students should agree to it before completing their registration or purchase.
+
+7. Real-Time Chat/Messaging:
+Implement a real-time chat feature where students can communicate directly with support or ask about products.
+
+Allow customers to interact with sellers if you're planning to expand the marketplace.
+
+8. Push Notifications:
+Send notifications for order updates (e.g., when an order is processed, shipped, or delivered).
+
+Send notifications for new product arrivals, special promotions, and flash sales.
+
+Send notifications when a referral is successful or when a new voucher is available for students.
+
+Push notifications should be sent to students when their referral results in an earned voucher or reward.
+
+9. Student Discounts & Flash Sales:
+Implement a student discount system, offering special discounts on certain products for registered students.
+
+Run flash sales for quick product turnover or for promoting specific categories or deals.
+
+Allow the admin to create and schedule flash sales.
+
+10. Design Preferences:
+Color scheme: Student-friendly, youthful, and vibrant. Focus on easy navigation and accessibility.
+
+Font: Clear and legible, with a modern, minimalistic style.
+
+Logo and branding should reflect the university environment, with a professional yet approachable feel.
+
+The website should be fully responsive and look great on both desktop and mobile devices.
+
